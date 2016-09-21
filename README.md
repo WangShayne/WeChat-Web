@@ -13,5 +13,15 @@
 
 ##弹射起步
 
-    直接用express框架吧
-    `npm install express --save`
+直接用express框架吧
+
+
+`
+ npm init
+ npm install -g express-generator
+ express -e wechat-web
+`
+
+我擦,有轮子就不要自己造了
+
+`npm install wx_jsapi_sign`

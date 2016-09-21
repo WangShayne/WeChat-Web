@@ -1,0 +1,26 @@
+body {
+  padding: 30px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+h2{
+  margin: 0 auto;
+}
+
+button{
+  width:70px;
+  height:50px;
+  margin: 0 auto;
+  background:#444444;
+  color:#ffffff;
+}
+
+p{
+  width:300px;
+  overflow-wrap: break-word;
+  font-size:18px;
+  color: #e4393c;
+}
