@@ -9,4 +9,9 @@
     4. 后台拿时间戳,随机字符,jsapi_ticket,url  sha1加密向微信要signature
     5. 返回给页面上面这些值
     6. 页面 wx.config({})调用相关接口
-    
+
+
+##弹射起步
+
+    直接用express框架吧
+    `npm install express --save`
