@@ -24,4 +24,4 @@
 
 我擦,有轮子就不要自己造了
 
-`npm install wx_jsapi_sign`
+`npm install wx_jsapi_sign --save`
